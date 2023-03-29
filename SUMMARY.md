@@ -2,6 +2,8 @@
 
 ## GETTING STARTED
 
+***
+
 * [Why Spatial Tables](README.md)
 * [How to install the app](how-to-install-the-app.md)
 * [Your first spatial table](your-first-spatial-table.md)
