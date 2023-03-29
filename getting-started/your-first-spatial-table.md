@@ -30,3 +30,7 @@ Open the app by choosing it from the list of installed apps in your left Miro Cr
 3. Examine the regular table that opens to view your data items and label categories.
 4. Notice how the table provides a structured view of your information, making it easy to read and analyze.
 5. Observe how data items and label categories are organized and displayed in a clear and concise format for efficient information retrieval and analysis.
+
+{% hint style="info" %}
+Note that you can change the column width by moving their edges in the header.&#x20;
+{% endhint %}
