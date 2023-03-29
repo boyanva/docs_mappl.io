@@ -10,18 +10,15 @@ Open the app by choosing it from the list of installed apps in your left Miro Cr
 
 ### Open the spatial table
 
-1. <mark style="background-color:red;">Navigate to an empty area in your Miro board</mark>, as new items will be placed in this area.
+1. <mark style="background-color:blue;">Navigate to an empty area in your Miro board</mark>, as new items will be placed in this area.
 2. Select the "Getting Started" drop-down menu
 3. Click on the button in this section, read through the information and made available to you on the pop-up page that opens, and then click the OK button once the page has fully loaded.&#x20;
-
-### Examine the spatial table
-
-1. Take a moment to examine the spatial table that appears on your Miro board. This is a very simple spatial table, but it effectively illustrates how you can describe information visually.
+4. Take a moment to examine the spatial table that appears on your Miro board. This is a very simple spatial table, but it effectively illustrates how you can describe information visually. The table shows some of the steps you can take to master using the mappl.io Spatial Tables app.
 
 <figure><img src="../.gitbook/assets/GettingStarted_firstspatialtable_01.png" alt=""><figcaption></figcaption></figure>
 
-1. Notice how stickynotes are utilized as data points, representing individual pieces of information.
-2. Observe the use of rectangle shapes and text boxes to assign categories, which help organize and group related data points for better understanding and analysis.
+5. Notice how sticky notes are utilized as data points, representing individual pieces of information.
+6. Observe the use of rectangle shapes and text boxes to assign categories, which help organize and group related data points for better understanding and analysis.
 
 ### View the results table
 
