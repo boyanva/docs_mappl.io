@@ -1,7 +1,9 @@
 # GETTING STARTED
 
-Mappl.io Spatial Tables allows you to categorize information visually and gain a comprehensive understanding of the big picture regarding your data. 
+Mappl.io Spatial Tables allows you to work with your data visually, directly within your Miro board.
 
-You can employ various tagging methods to suit your organizational needs, all within a Miro board to minimize your learning curve. 
+It analyzes your board's content and presents it as a table that includes all extracted spatial information.
 
-Experience efficient data management without sacrificing time or effort.
+With this tool, you can categorize data using hierarchical structures, apply various tagging methods, label groups of sticky notes, or use connector lines to define relationships.
+
+It effectively transforms your Miro board into a database.
