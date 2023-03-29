@@ -17,8 +17,11 @@ Open the app by choosing it from the list of installed apps in your left Miro Cr
 ### Examine the spatial table
 
 1. Take a moment to examine the spatial table that appears on your Miro board. This is a very simple spatial table, but it effectively illustrates how you can describe information visually.
-2. Notice how stickynotes are utilized as data points, representing individual pieces of information.
-3. Observe the use of rectangle shapes and text boxes to assign categories, which help organize and group related data points for better understanding and analysis.
+
+<figure><img src="../.gitbook/assets/GettingStarted_firstspatialtable_01.png" alt=""><figcaption></figcaption></figure>
+
+1. Notice how stickynotes are utilized as data points, representing individual pieces of information.
+2. Observe the use of rectangle shapes and text boxes to assign categories, which help organize and group related data points for better understanding and analysis.
 
 ### View the results table
 
