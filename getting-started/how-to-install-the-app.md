@@ -7,5 +7,5 @@ To install Spatial Tables, simply visit [https://miro.com/marketplace/spatial-ta
 3. Select the team for which the app will be installed.
 4. Give the app the following permissions by clicking the Add and Allow button.
 
-![](../.gitbook/assets/GettingStarted\_Permissions\_01.png)
+<img src="../.gitbook/assets/GettingStarted_Permissions_01.png" alt="" data-size="original">
 
