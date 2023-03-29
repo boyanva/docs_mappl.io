@@ -2,11 +2,11 @@
 description: Learn how to convert your Miro board into a database
 ---
 
-# Why Spatial Tables
+# Getting started
 
-### Overview
+### What is mappl.io spatial tables
 
-Mappl.io Spatial Tables allows you to work with your data visually, directly within your Miro board.
+The Miro app allows you to work with your data visually and intuitively, directly within your Miro board.
 
 It analyzes your board's content and presents it as a table that includes all extracted spatial information.
 
@@ -14,7 +14,7 @@ With this tool, you can categorize data using hierarchical structures, apply var
 
 It effectively transforms your Miro board into a database.
 
-### **All you have to do is the following:**
+### **Work visually and then convert your data to an exportable table**
 
 1\) Use one of our included spatial table examples or Miroverse templates. This example uses the color of sticky notes to assign task status.
 
