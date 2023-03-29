@@ -2,8 +2,6 @@
 
 ## GETTING STARTED
 
-***
-
 * [Why Spatial Tables](README.md)
 * [How to install the app](how-to-install-the-app.md)
 * [Your first spatial table](your-first-spatial-table.md)
@@ -26,11 +24,10 @@
 * [Sort](results-tables/sort.md)
 * [Manipulate columns](results-tables/manipulate-columns.md)
 
-***
+## EXPORT
 
-* [EXPORT](export/README.md)
-  * [CSV export](export/csv-export.md)
-  * [Export to Notion](export/export-to-notion.md)
-  * [Export to Airtable](export/export-to-airtable.md)
-  * [Export to Excel](export/export-to-excel.md)
-  * [Work with ChatGPT](export/work-with-chatgpt.md)
+* [CSV export](export/csv-export.md)
+* [Export to Notion](export/export-to-notion.md)
+* [Export to Airtable](export/export-to-airtable.md)
+* [Export to Excel](export/export-to-excel.md)
+* [Work with ChatGPT](export/work-with-chatgpt.md)
