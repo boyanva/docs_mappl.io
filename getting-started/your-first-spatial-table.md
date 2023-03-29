@@ -35,4 +35,4 @@ Open the app by choosing it from the list of installed apps in your left Miro Cr
 Note that you can change the column width by moving their edges in the header. You can also [sort](../results-tables/sort.md) and [filter ](../results-tables/filter.md)the table.
 {% endhint %}
 
-6. Click on the Download CSV file button to download the file which you can then open in another application such as a MS Excel, Google Sheets, Notion, or Airtable. Such applications can be used as your data repository.
+6. Click on the Download CSV file button to download the file which you can then open in another application such as a MS Excel, Google Sheets, Notion, or Airtable. These applications can be used as your data repository.
