@@ -1,0 +1,2 @@
+# Label sticky note clusters
+

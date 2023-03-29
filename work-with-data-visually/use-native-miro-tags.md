@@ -1,0 +1,2 @@
+# Use native Miro tags
+
