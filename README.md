@@ -21,3 +21,5 @@ Use one of our included statial table examples or Miroverse templates. This exam
 The view the the same data as a table, modify the table as neede, and export as a .CSV file.
 
 <figure><img src=".gitbook/assets/GettingStarted_Result_01.png" alt=""><figcaption></figcaption></figure>
+
+You can then easily import the data to your favorite application. 
