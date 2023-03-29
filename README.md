@@ -12,10 +12,12 @@ With this tool, you can categorize data using hierarchical structures, apply var
 
 It effectively transforms your Miro board into a database.
 
+**This is all you have to do**
 
+Use one of our included statial table examples or Miroverse templates. This example uses the color of sticky notes to assign task status.
 
 <figure><img src=".gitbook/assets/GettingStarted_SpatialTables_01 (1).png" alt=""><figcaption></figcaption></figure>
 
-
+The view the the same data as a table, modify the table as neede, and export as a .CSV file.
 
 <figure><img src=".gitbook/assets/GettingStarted_Result_01.png" alt=""><figcaption></figcaption></figure>
