@@ -1,3 +1,7 @@
+---
+description: Find a selection of compatible Miroverse templates
+---
+
 # How to access templates
 
 
