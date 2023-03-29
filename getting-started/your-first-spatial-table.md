@@ -22,7 +22,11 @@ Open the app by choosing it from the list of installed apps in your left Miro Cr
 
 ### View the results table
 
-1. Click on the "View Results Table" button located in the app panel.
-2. Examine the regular table that opens to view your data items and label categories.
-3. Notice how the table provides a structured view of your information, making it easy to read and analyze.
-4. Observe how data items and label categories are organized and displayed in a clear and concise format for efficient information retrieval and analysis.
+1. Use your mouse to select all content that should be included in the data analysis. The selection should cover everything included in the image from the previous section (labels, rectangles, and sticky notes).
+2. Click on the "View Results Table" button located in the app panel.
+
+<figure><img src="../.gitbook/assets/GettingStarted_restultstable_01.png" alt=""><figcaption></figcaption></figure>
+
+3. Examine the regular table that opens to view your data items and label categories.
+4. Notice how the table provides a structured view of your information, making it easy to read and analyze.
+5. Observe how data items and label categories are organized and displayed in a clear and concise format for efficient information retrieval and analysis.
