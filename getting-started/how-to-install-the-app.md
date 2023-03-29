@@ -1,3 +1,7 @@
+---
+description: Select the app from the Miro marketplace
+---
+
 # How to install the app
 
 To install Spatial Tables, simply visit [https://miro.com/marketplace/spatial-tables/](https://miro.com/marketplace/spatial-tables/) and follow the instructions provided.&#x20;
