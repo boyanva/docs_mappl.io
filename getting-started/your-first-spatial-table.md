@@ -8,8 +8,6 @@ Follow the steps to get going quickly with the mappl.io Spatial Tables app.
 
 Open the mappl.io Spatial Tables app by accessing the list of installed apps in your left Miro Creation toolbar.
 
-
-
 ### Open the spatial table
 
 1. Select the "Getting Started" drop-down menu
@@ -24,10 +22,7 @@ Open the mappl.io Spatial Tables app by accessing the list of installed apps in 
 
 ### View the results table
 
-1\. Click on the "View Results Table" button located in the app panel.
-
-2\. Examine the regular table that opens to view your data items and label categories.
-
-3\. Notice how the table provides a structured view of your information, making it easy to read and analyze.
-
-4\. Observe how data items and label categories are organized and displayed in a clear and concise format for efficient information retrieval and analysis.
+1. Click on the "View Results Table" button located in the app panel.
+2. Examine the regular table that opens to view your data items and label categories.
+3. Notice how the table provides a structured view of your information, making it easy to read and analyze.
+4. Observe how data items and label categories are organized and displayed in a clear and concise format for efficient information retrieval and analysis.
