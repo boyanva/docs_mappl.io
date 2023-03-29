@@ -1,17 +1,17 @@
 ---
-description: Open a spatial table and view a table result
+description: Open simple spatial table and view the table result
 ---
 
 # Your first spatial table
 
-Follow the steps to get going quickly with the mappl.io Spatial Tables app.
+Follow these steps to get going quickly with the mappl.io Spatial Tables app.
 
-Open the mappl.io Spatial Tables app by accessing the list of installed apps in your left Miro Creation toolbar.
+Open the app by choosing it from the list of installed apps in your left Miro Creation toolbar.
 
 ### Open the spatial table
 
-1. Select the "Getting Started" drop-down menu
-2. Navigate to an empty portion of your Miro board, as new items will be placed in this area.
+1. <mark style="color:yellow;">Navigate to an empty portion of your Miro board</mark>, as new items will be placed in this area.
+2. Select the "Getting Started" drop-down menu
 3. Click on the button in this section, read through the information and made available to you on the pop-up page that opens, and then click the OK button once the page has fully loaded.&#x20;
 
 ### Examine the spatial table
