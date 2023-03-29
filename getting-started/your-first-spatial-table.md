@@ -10,7 +10,7 @@ Open the app by choosing it from the list of installed apps in your left Miro Cr
 
 ### Open the spatial table
 
-1. <mark style="background-color:red;">Navigate to an empty portion of your Miro board</mark>, as new items will be placed in this area.
+1. <mark style="background-color:red;">Navigate to an empty area in your Miro board</mark>, as new items will be placed in this area.
 2. Select the "Getting Started" drop-down menu
 3. Click on the button in this section, read through the information and made available to you on the pop-up page that opens, and then click the OK button once the page has fully loaded.&#x20;
 
