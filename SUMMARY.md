@@ -21,6 +21,11 @@
 
 ## RESULTS TABLES
 
+* [Results table overview](results-tables/results-table-overview.md)
+* [Filter](results-tables/filter.md)
+* [Sort](results-tables/sort.md)
+* [Manipulate columns](results-tables/manipulate-columns.md)
+
 ***
 
 * [EXPORT](export.md)
