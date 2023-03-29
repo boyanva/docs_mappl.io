@@ -14,3 +14,5 @@ To find  a selection of templates:
 2. Select "Choose a template."
 3. Browse and pick the perfect template for your project.
 4. Modify the temple as needed to best suite your particular requirements and datasets.
+
+<figure><img src="../.gitbook/assets/GettingStarted_miroverse_01.png" alt=""><figcaption></figcaption></figure>
