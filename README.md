@@ -20,7 +20,7 @@ It effectively transforms your Miro board into a database.
 
 <figure><img src=".gitbook/assets/GettingStarted_SpatialTables_01 (1).png" alt=""><figcaption></figcaption></figure>
 
-2\) The view the the same data as a table, modify the table as needed, and export as a .CSV file.
+2\) The view the the same data as a table, modify the table as needed, and export as a .CSV file. Note how the table categorizes each sticky note hierarchically, as well as it terms of color tags.
 
 <figure><img src=".gitbook/assets/GettingStarted_Result_01 (1).png" alt=""><figcaption></figcaption></figure>
 
