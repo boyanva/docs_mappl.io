@@ -1,3 +1,4 @@
 # Table of contents
 
-* [Page 1](README.md)
+* [Getting started](README.md)
+* [Working with spatial tables](working-with-spatial-tables.md)
