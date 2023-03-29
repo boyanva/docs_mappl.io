@@ -4,11 +4,9 @@ description: Find a selection of compatible Miroverse templates
 
 # How to access templates
 
-
-
 Get started swiftly with the mappl.io Spatial Tables app using a compatible Miroverse template.
 
-To find  a selection of templates:
+### To find  a selection of templates:
 
 1. Launch the app.
 2. Select "Choose a template."
