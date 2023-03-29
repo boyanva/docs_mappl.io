@@ -10,7 +10,7 @@ It effectively transforms your Miro board into a database.
 
 
 
-<figure><img src=".gitbook/assets/GettingStarted_SpatialTables_01.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/GettingStarted_SpatialTables_01 (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
