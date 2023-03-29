@@ -1,7 +1,10 @@
 # Table of contents
 
-* [GETTING STARTED](README.md)
-* [Why Spatial Tables](<README (1).md>)
+## GETTING STARTED
+
+***
+
+* [Why Spatial Tables](README.md)
 * [How to install the app](how-to-install-the-app.md)
 * [Your first spatial table](your-first-spatial-table.md)
 * [How to access templates](how-to-access-templates.md)
@@ -15,5 +18,3 @@
 ***
 
 * [EXPORT](export.md)
-
-## Group 1
