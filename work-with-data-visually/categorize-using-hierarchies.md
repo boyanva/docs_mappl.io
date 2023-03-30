@@ -1,5 +1,5 @@
 ---
-description: Visually describe to five levels of data hierarchy
+description: Visually describe up to five levels of data hierarchy
 ---
 
 # Categorize using nested shapes
