@@ -1,5 +1,5 @@
 ---
-description: What you need to know to build spatial tables
+description: Everything you need to know to build and work with spatial tables
 ---
 
 # Practical tips
