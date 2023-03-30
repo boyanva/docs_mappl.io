@@ -14,6 +14,8 @@ The spatial table below illustrates a straightforward example of employing this 
 
 <figure><img src="../.gitbook/assets/VisualData_HorLabels_01.png" alt=""><figcaption></figcaption></figure>
 
+#### Results table view
+
 The results table view resolves the vertical categories using [hierarchies](categorize-using-hierarchies.md). Horizontal labels are included in a separate column. The table has been sorted based on horizontal labels.&#x20;
 
 <figure><img src="../.gitbook/assets/VisualData_HorLabels_results_01.png" alt=""><figcaption></figcaption></figure>
