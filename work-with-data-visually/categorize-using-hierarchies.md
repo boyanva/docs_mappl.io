@@ -12,6 +12,4 @@ Utilize this method for various practical applications, such as organizing brain
 
 With this structure, you can quickly identify patterns, connections, and insights, making your decision-making process more efficient and well-informed.
 
-
-
-### Practical tips
+<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td></td><td>Practical tips for working with visual data</td><td></td></tr></tbody></table>
