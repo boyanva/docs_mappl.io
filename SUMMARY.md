@@ -5,7 +5,7 @@
 * [Getting started](README.md)
 * [How to install the app](getting-started/how-to-install-the-app.md)
 * [Your first spatial table](getting-started/your-first-spatial-table.md)
-* [How to access templates](getting-started/how-to-access-templates.md)
+* [Access templates](getting-started/how-to-access-templates.md)
 
 ## VISUAL DATA INPUT
 
