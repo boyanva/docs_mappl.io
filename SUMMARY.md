@@ -9,13 +9,13 @@
 
 ## VISUAL DATA
 
-* [Categorize hierarchies using nested shapes](visual-data/categorize-using-hierarchies.md)
-* [Categorize by row and column labels](visual-data/categorize-by-row-and-column-labels.md)
-* [Categorize by color](visual-data/categorize-by-color.md)
-* [Tag items using shapes](visual-data/tag-items-using-shapes.md)
-* [Use native Miro tags](visual-data/use-native-miro-tags.md)
-* [Label sticky note clusters](visual-data/label-sticky-note-clusters.md)
-* [Use connector lines](visual-data/use-connector-lines.md)
+* [Categorize  using nested shapes](work-with-data-visually/categorize-using-hierarchies.md)
+* [Categorize by row and column labels](work-with-data-visually/categorize-by-row-and-column-labels.md)
+* [Categorize by color](work-with-data-visually/categorize-by-color.md)
+* [Tag items using shapes](work-with-data-visually/tag-items-using-shapes.md)
+* [Use native Miro tags](work-with-data-visually/use-native-miro-tags.md)
+* [Label sticky note clusters](work-with-data-visually/label-sticky-note-clusters.md)
+* [Use connector lines](work-with-data-visually/use-connector-lines.md)
 
 ## RESULTS TABLES
 
