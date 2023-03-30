@@ -1,5 +1,5 @@
 ---
-description: Use lines to related sticky notes when this is most convenient
+description: Define parent-child relationships between individual sticky notes
 ---
 
 # Use connector lines
