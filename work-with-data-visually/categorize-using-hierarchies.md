@@ -12,4 +12,10 @@ Utilize this method for various practical applications, such as organizing brain
 
 With this structure, you can quickly identify patterns, connections, and insights, making your decision-making process more efficient and well-informed.
 
+#### Results table view
+
+The spatial table gets converted to a regular table that can be [exported as a CSV file](../export/csv-export.md). The hierarchy is described by the included Top-level, Second level, Third-level and Fourth-level Labels. Backlinks can be used to go back to the original item on your Miro board. Data can be [filtered ](../results-tables/filter.md)and [sorted ](../results-tables/sort.md)prior to export.&#x20;
+
+<figure><img src="../.gitbook/assets/VisualData_hierarchies_results_01.png" alt=""><figcaption></figcaption></figure>
+
 <table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td></td><td>Practical tips for working with visual data</td><td></td><td><a href="../visual-data-input/practical-tips.md#assigning-vertical-labels">#assigning-vertical-labels</a></td></tr></tbody></table>
