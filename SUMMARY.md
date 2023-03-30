@@ -7,22 +7,22 @@
 * [Your first spatial table](getting-started/your-first-spatial-table.md)
 * [How to access templates](getting-started/how-to-access-templates.md)
 
-## VISUAL DATA
+## VISUAL DATA INPUT
 
-* [Categorize  using nested shapes](work-with-data-visually/categorize-using-hierarchies.md)
-* [Categorize by row and column labels](work-with-data-visually/categorize-by-row-and-column-labels.md)
-* [Categorize by color](work-with-data-visually/categorize-by-color.md)
-* [Tag items using shapes](work-with-data-visually/tag-items-using-shapes.md)
-* [Use native Miro tags](work-with-data-visually/use-native-miro-tags.md)
-* [Label sticky note clusters](work-with-data-visually/label-sticky-note-clusters.md)
-* [Use connector lines](work-with-data-visually/use-connector-lines.md)
+* [Categorize using nested shapes](visual-data-input/categorize-using-hierarchies.md)
+* [Categorize by row and column labels](visual-data-input/categorize-by-row-and-column-labels.md)
+* [Categorize by color](visual-data-input/categorize-by-color.md)
+* [Tag items using shapes](visual-data-input/tag-items-using-shapes.md)
+* [Use native Miro tags](visual-data-input/use-native-miro-tags.md)
+* [Label sticky note clusters](visual-data-input/label-sticky-note-clusters.md)
+* [Use connector lines](visual-data-input/use-connector-lines.md)
 
-## RESULTS TABLES
+## RESULTS TABLE OUTPUT
 
-* [Results table overview](results-tables/results-table-overview.md)
-* [Filter](results-tables/filter.md)
-* [Sort](results-tables/sort.md)
-* [Manipulate columns](results-tables/manipulate-columns.md)
+* [Results table overview](results-table-output/results-table-overview.md)
+* [Filter](results-table-output/filter.md)
+* [Sort](results-table-output/sort.md)
+* [Manipulate columns](results-table-output/manipulate-columns.md)
 
 ## EXPORT
 

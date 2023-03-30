@@ -32,7 +32,7 @@ Open the app by choosing it from the list of installed apps in your left Miro Cr
 5. Observe how data items and label categories are organized and displayed in a clear and concise format for efficient information retrieval and analysis.
 
 {% hint style="info" %}
-Note that you can change the column width by moving their edges in the header. You can also [sort](../results-tables/sort.md) and [filter ](../results-tables/filter.md)the table.
+Note that you can change the column width by moving their edges in the header. You can also [sort](../results-table-output/sort.md) and [filter ](../results-table-output/filter.md)the table.
 {% endhint %}
 
 6. Click on the Download CSV file button to download the file which you can then open in another application such as a MS Excel, Google Sheets, Notion, or Airtable. These applications can be used as your data repository.
