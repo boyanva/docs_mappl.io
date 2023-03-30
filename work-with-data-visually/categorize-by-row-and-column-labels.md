@@ -1,5 +1,5 @@
 ---
-description: Apply two categories per cell
+description: Associate data items with two separate categories
 ---
 
 # Categorize by row and column labels
