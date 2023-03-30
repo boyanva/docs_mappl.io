@@ -11,7 +11,7 @@
 
 * [Categorize items using nested shapes](work-with-data-visually/categorize-using-hierarchies.md)
 * [Categorize items by using row and column labels](work-with-data-visually/categorize-by-row-and-column-labels.md)
-* [Categorize by color](work-with-data-visually/categorize-by-color.md)
+* [Categorize items by color](work-with-data-visually/categorize-by-color.md)
 * [Tag items using shapes](work-with-data-visually/tag-items-using-shapes.md)
 * [Use native Miro tags](work-with-data-visually/use-native-miro-tags.md)
 * [Label sticky note clusters](work-with-data-visually/label-sticky-note-clusters.md)
