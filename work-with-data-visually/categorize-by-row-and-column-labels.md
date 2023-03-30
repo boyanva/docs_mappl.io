@@ -10,7 +10,7 @@ Take advantage of the spatial table's ability to include multiple items per cell
 
 Use this technique to compare data items across diverse categories and identify items with similar or distinct features.&#x20;
 
-The spatial table below illustrates a straightforward example of employing this approach to analyze the strengths and weaknesses of competitors, as well as your primary competitive advantage relative to them
+The spatial table below illustrates a straightforward example of employing this approach to analyze the strengths and weaknesses of competitors, as well as your primary competitive advantage relative to them.
 
 <figure><img src="../.gitbook/assets/VisualData_HorLabels_01.png" alt=""><figcaption></figcaption></figure>
 
