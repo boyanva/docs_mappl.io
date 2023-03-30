@@ -16,7 +16,7 @@
 * [Use native Miro tags](work-with-data-visually/use-native-miro-tags.md)
 * [Label sticky note clusters](work-with-data-visually/label-sticky-note-clusters.md)
 * [Use connector lines](work-with-data-visually/use-connector-lines.md)
-* [Practical tips for working with visual data](visual-data-input/practical-tips-for-working-with-visual-data.md)
+* [Practical tips](visual-data-input/practical-tips.md)
 
 ## RESULTS TABLE OUTPUT
 
