@@ -4,7 +4,7 @@ description: Associate data items with two separate categories
 
 # Categorize items by using row and column labels
 
-Place data items in rectangles associated to both vertical and horizontal labels. Work visually within a familiar table view.&#x20;
+Place data items (sticky notes or text boxes) in rectangles associated to both vertical and horizontal labels. Work visually within a familiar table view.&#x20;
 
 Take advantage of the spatial table's ability to include multiple items per cell, which can be examined later in the results table view.&#x20;
 
