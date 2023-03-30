@@ -9,3 +9,7 @@ Organize your data by categorizing items into up to five visual hierarchy levels
 Utilize this method for various practical applications, such as organizing brainstorming session results, managing project status or doing competition research.&#x20;
 
 With this structure, you can quickly identify patterns, connections, and insights, making your decision-making process more efficient and well-informed.
+
+
+
+### Practical tips
