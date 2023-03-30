@@ -12,4 +12,4 @@ Utilize this method for various practical applications, such as organizing brain
 
 With this structure, you can quickly identify patterns, connections, and insights, making your decision-making process more efficient and well-informed.
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td></td><td>Practical tips for working with visual data</td><td></td><td><a href="../visual-data-input/practical-tips.md">practical-tips.md</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td></td><td>Practical tips for working with visual data</td><td></td><td><a href="../visual-data-input/practical-tips.md#assigning-vertical-labels">#assigning-vertical-labels</a></td></tr></tbody></table>
