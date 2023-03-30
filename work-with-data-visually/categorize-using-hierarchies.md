@@ -10,7 +10,7 @@ Utilize this method for various practical applications, such as organizing brain
 
 With this structure, you can quickly identify patterns, connections, and insights, making your decision-making process more efficient and well-informed.
 
-The spatial table below illustrates how you can use nesting of labelled rectangles to associated clients with specific countries and cities within Europe. Client G in this case will be associated with Brussels -> Belgium -> Other -> Major clients in Europe.
+The spatial table below illustrates how you can use nesting of labelled rectangles to associated clients with specific countries and cities within Europe. Client G in this case will be associated with Brussels -> Belgium -> Other -> Major clients in Europe (see Results table view section).
 
 <figure><img src="../.gitbook/assets/VisualData_hierarchies_01.png" alt=""><figcaption></figcaption></figure>
 
