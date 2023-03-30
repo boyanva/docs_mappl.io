@@ -1,5 +1,5 @@
 ---
-description: A fast and flexible way to visually tag data items
+description: A fastest and most flexible way to visually tag data items
 ---
 
 # Tag items using shapes

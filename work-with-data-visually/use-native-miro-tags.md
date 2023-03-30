@@ -1,5 +1,5 @@
 ---
-description: Use the native tagging system offered by Miro
+description: Use the native tagging system offered by Miro when this is more convenient
 ---
 
 # Use native Miro tags
