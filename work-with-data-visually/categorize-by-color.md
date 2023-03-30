@@ -1,5 +1,5 @@
 ---
-description: Define that state of an item by its color
+description: Track the changing state of an item by its color
 ---
 
 # Categorize by color
