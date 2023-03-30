@@ -1,3 +1,7 @@
+---
+description: What you need to know to build spatial tables
+---
+
 # Practical tips
 
 ### Assigning vertical labels
