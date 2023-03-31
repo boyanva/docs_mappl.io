@@ -4,18 +4,18 @@ description: Track the changing state of an item by its color
 
 # Categorize items by color
 
-Design a custom color tag legend and apply sticky note colors to represent varying states of data items in your spatial table.&#x20;
+Use custom color tags to track the changing state of data items in your spatial table. You can use this method to indicate the completion state of tasks, as well as the importance of items, or the satisfaction level of customers.
 
-Utilize this approach to indicate the state of completion for tasks or other possible descriptors, such as happy/unhappy customers or important/unimportant items.
+This technique is a great alternative to Kanban boards, as it uses color to indicate state of task completion, while allowing for labeled rectangles to show supplementary task characteristics.
 
-The example below highlights how this technique can be a fitting alternative to Kanban boards, using color distinctions for task status and labeled rectangles for conveying supplementary task characteristics.
+The example below shows how this approach can be used to track marketing tasks for a team. The states of completion are defined in the Color tags areas.&#x20;
 
 <figure><img src="../.gitbook/assets/VisualData_ColorTags_01.png" alt=""><figcaption></figcaption></figure>
 
 #### Results table view
 
-The color status in the results table appears in the Color Labels column. These columns are exclusive to spatial tables that incorporate a Color tags label. Color tags function alongside other categorization methods supported by the app.&#x20;
+The color status for each time in the results table appears in the Color Labels column. These columns are exclusive to spatial tables that incorporate a Color tags label.&#x20;
 
-As shown in the example below, the results table also features a vertical category hierarchy, in addition to item backlinks.&#x20;
+Color tags can function alongside other categorization methods supported by the app. As shown in the example below, the results table also features a vertical category hierarchy.
 
 <figure><img src="../.gitbook/assets/VisualData_ColorTags_results_01.png" alt=""><figcaption></figcaption></figure>
