@@ -14,7 +14,7 @@ In the spatial table example below, shape tags are used to indicate the level of
 
 #### Results table view
 
-The shape tags for each item in the results table appears in the Shape Tags column. Such a column will only be present if the associated spatial table contains a Shape tags label category.
+The shape tags for each item in the results table appears in the Shape Tags column. Such a column will only be visible by default if the associated spatial table contains a Shape tags label category.
 
 Shape tags can be used alongside other categorization methods supported by the app. The table below, for example also shows a two level vertical category hierarchy.&#x20;
 

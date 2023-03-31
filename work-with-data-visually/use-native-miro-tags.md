@@ -10,4 +10,10 @@ The table blow has two Miro tags applied to it. A blue _important_ tag and a red
 
 <figure><img src="../.gitbook/assets/VisualData_MiroTags_01.png" alt=""><figcaption></figcaption></figure>
 
+#### Results table view
+
+The Miro tags for each item in the results table appears in the Miro Tags column. Such a column will only be visible by default if the associated spatial table contains Miro tags.
+
+
+
 <figure><img src="../.gitbook/assets/VisualData_MiroTags_results_01.png" alt=""><figcaption></figcaption></figure>
