@@ -21,5 +21,5 @@ Shape tags can be used alongside other categorization methods supported by the a
 <figure><img src="../.gitbook/assets/VisualData_ShapeTags_results_01.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-When you apply multiple shape tags to a single sticky note in a spatial table, each tag is resolved as a separate row in the results table. This feature makes filtering and querying data much easier.
+When you apply multiple shape tags to a single sticky note in a spatial table, each tag is resolved as a separate row in the results table. This feature makes filtering and querying data easier.
 {% endhint %}
