@@ -76,3 +76,7 @@ A cluster of sticky notes is formed when two or more notes overlap in space. The
 &#x20;A cluster will only appear in the results table if it is labeled. To label a cluster, place a text box in close proximity to it. The label should not meet the criteria of a vertical or horizontal label.
 
 ### Using line connectors
+
+Line connectors allow you to establish direct parent-child relationships between data items, which can be sticky notes or shapes.&#x20;
+
+Simply select the Line Connector tool in the left Miro toolbar and draw a line starting from the parent item and ending at the child item. All types of line start and end connectors are supported.
