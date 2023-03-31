@@ -1,5 +1,7 @@
 ---
-description: Define parent-child relationships between individual sticky notes
+description: >-
+  Define parent-child relationships between individual sticky notes or text
+  boxes
 ---
 
 # Use connector lines
