@@ -12,4 +12,8 @@ In the spatial table example below, shape tags are used to indicate the level of
 
 <figure><img src="../.gitbook/assets/VisualData_ShapeTags_01.png" alt=""><figcaption></figcaption></figure>
 
+#### Results table view
+
+The shape tags for each item in the results table appears in the Shape Tags column. Such a column will only be present if the associated spatial table contains a Shape tags label category.
+
 <figure><img src="../.gitbook/assets/VisualData_ShapeTags_results_01.png" alt=""><figcaption></figcaption></figure>
