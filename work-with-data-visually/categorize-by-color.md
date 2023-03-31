@@ -16,7 +16,7 @@ The example below shows how this approach can be used to track marketing tasks f
 
 #### Results table view
 
-The color status for each item in the results table appears in the Color Labels column. Such a column will only be present if the associated spatial table contains a Color tags label category.
+The color status for each item in the results table appears in the Color Labels column. Such a column will only be visible by default if the associated spatial table contains a Color tags label category.
 
 Color tags can be used alongside other categorization methods supported by the app. The table below, for example also shows a two level vertical category hierarchy.
 
