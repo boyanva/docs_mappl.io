@@ -1,5 +1,5 @@
 ---
-description: A fastest and most flexible way to visually tag data items
+description: The fastest and most flexible way to visually tag sticky notes
 ---
 
 # Tag items using shapes
