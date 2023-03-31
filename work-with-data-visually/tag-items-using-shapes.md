@@ -4,9 +4,11 @@ description: A fastest and most flexible way to visually tag data items
 
 # Tag items using shapes
 
-Use custom shape tags to assign additional label categories to sticky notes in your spatial tables.&#x20;
+Use custom shape tags to assign label categories to sticky notes in your spatial tables. This feature enables you to quickly define and apply tags to your data sets by copying and pasting shapes on top of sticky notes, providing a simple and fast way to visually organize and categorize your data.
 
-This feature allows you to quickly define and apply tags to your data sets by copying and pasting shapes on top of sticky notes. It's a simple and fast way to visually organize and categorize your data.
+Shape tagging is especially useful when you need to keep track of and assign multiple tags simultaneously. You can use this feature to assign tasks to people or associate tasks with additional labels.
+
+In the spatial table example below, shape tags are used to indicate the level of user enthusiasm during a moment in a user interview.
 
 <figure><img src="../.gitbook/assets/VisualData_ShapeTags_01.png" alt=""><figcaption></figcaption></figure>
 
