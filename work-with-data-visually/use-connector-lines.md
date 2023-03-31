@@ -6,9 +6,11 @@ description: >-
 
 # Use connector lines
 
-Use connector lines when you need create a direct parent-child relationships between individual sticky notes or text boxes. Connector lines are especially useful when the relationship lays outside of the a hierarchy structure used in the spatial table. They can, for example, show dependencies between data items belonging to different labelled hierarchical categories.&#x20;
+Connector lines are a powerful tool for establishing direct parent-child relationships between individual sticky notes or text boxes. They are particularly useful when the relationship lies outside of the spatial table hierarchy.
 
-The example below show a simple scenario where connector lines have been used to define the organizational structure within a department.&#x20;
+&#x20;Connector lines can indicate dependencies between data items from different hierarchical categories, or they can create hierarchies in their own right.
+
+In the example below, connector lines are used to illustrate the organizational structure within a department.
 
 <figure><img src="../.gitbook/assets/VisualData_LineConnectors_01.png" alt=""><figcaption></figcaption></figure>
 
