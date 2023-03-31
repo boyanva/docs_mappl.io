@@ -13,6 +13,7 @@ This page contains practical information for the following tasks:
 * [Working with shape tags](practical-tips.md#working-with-shape-tags)
 * [Assigning labels to sticky note clusters](practical-tips.md#assigning-labels-to-sticky-note-clusters)
 * [Using line connectors](practical-tips.md#using-line-connectors)
+* [Text box interpretation precedence](practical-tips.md#text-box-interpretation-precedence)
 
 ### Assigning vertical labels
 
@@ -80,3 +81,16 @@ A cluster of sticky notes is formed when two or more notes overlap in space. The
 Line connectors allow you to establish direct parent-child relationships between data items, which can be sticky notes or shapes.&#x20;
 
 Simply select the Line Connector tool in the left Miro toolbar and draw a line starting from the parent item and ending at the child item. All types of line start and end connectors are supported.
+
+### Text box interpretation precedence
+
+At times, a text box may fulfill the requirements for more than one label type, such as being both a cluster label and a horizontal label.&#x20;
+
+In such cases, the text box is intepreted in the following order of importance:&#x20;
+
+1. Vertical label
+2. Horizontal label
+3. Cluster label
+4. Data item
+
+A text box will only be interpreted as as a data item if it cannot be first interpreted as a vertical label, horizontal label, or cluster label. A text box will only be interpreted as a cluster label if it cannot be first interpreted as a vertical label or a horizontal label.
