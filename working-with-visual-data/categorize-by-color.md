@@ -21,3 +21,7 @@ The color status for each item in the results table appears in the Color Labels 
 Color tags can be used alongside other categorization methods supported by the app. The table below, for example also shows a two level vertical category hierarchy.
 
 <figure><img src="../.gitbook/assets/VisualData_ColorTags_results_01.png" alt=""><figcaption></figcaption></figure>
+
+### Find out more:
+
+<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Practical tips:</strong></td><td>Working with color tags</td><td></td><td><a href="practical-tips.md#working-with-color-tags">#working-with-color-tags</a></td></tr></tbody></table>
