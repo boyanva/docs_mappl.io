@@ -20,4 +20,4 @@ The spatial table gets converted to a regular table that can be [exported as a C
 
 <figure><img src="../.gitbook/assets/VisualData_hierarchies_results_01.png" alt=""><figcaption></figcaption></figure>
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td></td><td>Practical tips for working with visual data</td><td></td><td><a href="../visual-data-input/practical-tips.md#assigning-vertical-labels">#assigning-vertical-labels</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td></td><td>Practical tips: Assigning vertical labels</td><td></td><td><a href="practical-tips.md#assigning-vertical-labels">#assigning-vertical-labels</a></td></tr></tbody></table>

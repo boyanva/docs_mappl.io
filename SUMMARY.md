@@ -7,16 +7,16 @@
 * [Your first spatial table](getting-started/your-first-spatial-table.md)
 * [Access templates](getting-started/how-to-access-templates.md)
 
-## VISUAL DATA INPUT
+## WORKING WITH VISUAL DATA
 
-* [Categorize items using nested shapes](work-with-data-visually/categorize-using-hierarchies.md)
-* [Categorize items by using row and column labels](work-with-data-visually/categorize-by-row-and-column-labels.md)
-* [Categorize items by color](work-with-data-visually/categorize-by-color.md)
-* [Tag items using shapes](work-with-data-visually/tag-items-using-shapes.md)
-* [Use native Miro tags](work-with-data-visually/use-native-miro-tags.md)
-* [Label sticky note clusters](work-with-data-visually/label-sticky-note-clusters.md)
-* [Use connector lines](work-with-data-visually/use-connector-lines.md)
-* [Practical tips](visual-data-input/practical-tips.md)
+* [Categorize items using nested shapes](working-with-visual-data/categorize-using-hierarchies.md)
+* [Categorize items by using row and column labels](working-with-visual-data/categorize-by-row-and-column-labels.md)
+* [Categorize items by color](working-with-visual-data/categorize-by-color.md)
+* [Tag items using shapes](working-with-visual-data/tag-items-using-shapes.md)
+* [Use native Miro tags](working-with-visual-data/use-native-miro-tags.md)
+* [Label sticky note clusters](working-with-visual-data/label-sticky-note-clusters.md)
+* [Use connector lines](working-with-visual-data/use-connector-lines.md)
+* [Practical tips](working-with-visual-data/practical-tips.md)
 
 ## RESULTS TABLE OUTPUT
 
