@@ -26,4 +26,4 @@ When you apply multiple shape tags to a single sticky note in a spatial table, e
 
 ### Find out more:
 
-<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>Practical tips:</strong></td><td>Working with shape tags</td><td></td></tr></tbody></table>
+<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Practical tips:</strong></td><td>Working with shape tags</td><td></td><td><a href="practical-tips.md#working-with-shape-tags">#working-with-shape-tags</a></td></tr></tbody></table>
