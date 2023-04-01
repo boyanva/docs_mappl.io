@@ -20,6 +20,6 @@ The spatial table gets converted to a regular table that can be [exported as a C
 
 <figure><img src="../.gitbook/assets/VisualData_hierarchies_results_01.png" alt=""><figcaption></figcaption></figure>
 
-#### Learn more about:
+### Learn more about:
 
 <table data-card-size="large" data-column-title-hidden data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-type="content-ref"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Practical tips:</strong> </td><td>Assigning vertical labels</td><td></td><td><a href="practical-tips.md#assigning-vertical-labels">#assigning-vertical-labels</a></td><td><a href="practical-tips.md#assigning-vertical-labels">#assigning-vertical-labels</a></td></tr><tr><td><strong>Practical tips:</strong> </td><td><p>Working with sticky note and text box data items</p><p></p></td><td></td><td><a href="practical-tips.md#working-with-sticky-note-and-text-box-data-items">#working-with-sticky-note-and-text-box-data-items</a></td><td><a href="practical-tips.md#working-with-sticky-note-and-text-box-data-items">#working-with-sticky-note-and-text-box-data-items</a></td></tr></tbody></table>
