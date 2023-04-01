@@ -22,4 +22,4 @@ The results table displays the relationship between parent and child items in th
 
 ### Find out more:
 
-<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>Practical tips:</strong></td><td>Using line connectors</td><td></td></tr></tbody></table>
+<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-type="content-ref"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Practical tips:</strong></td><td>Using line connectors</td><td></td><td><a href="practical-tips.md#using-line-connectors">#using-line-connectors</a></td><td><a href="practical-tips.md#using-line-connectors">#using-line-connectors</a></td></tr></tbody></table>
