@@ -23,3 +23,7 @@ Shape tags can be used alongside other categorization methods supported by the a
 {% hint style="info" %}
 When you apply multiple shape tags to a single sticky note in a spatial table, each tag is resolved as a separate row in the results table. This feature makes filtering and querying data easier.
 {% endhint %}
+
+### Find out more:
+
+<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>Practical tips:</strong></td><td>Working with shape tags</td><td></td></tr></tbody></table>
