@@ -1,3 +1,7 @@
+---
+description: Get to you know the results table view
+---
+
 # Results table overview
 
 The results table view displays your spatial tables in a table format and includes all relevant hierarchies and category types based on your input. It's an efficient way to assess your data and identify any conversion errors.&#x20;

@@ -1,7 +1,5 @@
 ---
 description: Learn how to convert your Miro board into a database
-cover: .gitbook/assets/VisualData_MiroTags_01.png
-coverY: 146
 ---
 
 # Getting started

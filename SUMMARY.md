@@ -21,7 +21,7 @@
 ## RESULTS TABLE OUTPUT
 
 * [Results table overview](results-tables/results-table-overview.md)
-* [Work with columns](results-table-output/work-with-columns.md)
+* [Make changes to the table](results-table-output/make-changes-to-the-table.md)
 * [Filter](results-tables/filter.md)
 * [Sort](results-tables/sort.md)
 
