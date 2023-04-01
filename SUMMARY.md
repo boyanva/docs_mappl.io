@@ -21,9 +21,9 @@
 ## RESULTS TABLE OUTPUT
 
 * [Results table overview](results-tables/results-table-overview.md)
+* [Work with columns](results-table-output/work-with-columns.md)
 * [Filter](results-tables/filter.md)
 * [Sort](results-tables/sort.md)
-* [Manipulate columns](results-tables/manipulate-columns.md)
 
 ## EXPORT
 
