@@ -19,7 +19,7 @@ Open the app by choosing it from the list of installed apps in your left Miro Cr
 <figure><img src="../.gitbook/assets/GettingStarted_firstspatialtable_01.png" alt=""><figcaption></figcaption></figure>
 
 5. Notice how sticky notes are utilized as data items, representing individual pieces of information stored in the spatial table. Note that text boxes can also function as data items under [some conditions](../working-with-visual-data/practical-tips.md#working-with-sticky-note-and-text-box-data-items).&#x20;
-6. Observe the use of rectangle shapes and text boxes to assign categories, which help organize and group related data points for better understanding and analysis.
+6. Observe the use of the grey rectangle shapes and text box labels to assign categories, which help organize and group related data items for better understanding and analysis.
 
 ### View the results table
 
