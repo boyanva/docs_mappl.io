@@ -19,21 +19,20 @@ Open the app by choosing it from the list of installed apps in your left Miro Cr
 <figure><img src="../.gitbook/assets/GettingStarted_firstspatialtable_01.png" alt=""><figcaption></figcaption></figure>
 
 5. Notice how sticky notes are utilized as data items, representing individual pieces of information stored in the spatial table. Note that text boxes can also function as data items under [some conditions](../working-with-visual-data/practical-tips.md#working-with-sticky-note-and-text-box-data-items).&#x20;
-6. Observe the use of the grey rectangle shapes and text box labels to assign categories, which help organize and group related data items for better understanding and analysis.
+6. Observe the use of the grey rectangle shapes and text box labels to assign categories (Now, Next, Later), which help organize and group related data items visually.
 
 ### View the results table
 
-1. Use your mouse to select all content that should be included in the data analysis. The selection should cover everything included in the image from the previous section (labels, rectangles, and sticky notes).
-2. Click on the "View Results Table" button located in the app panel.
+1. **Use your mouse to select all content that should be included in the data analysis.** The selection should cover everything included in the spatial table from the previous section (labels, rectangles, and sticky notes).
+2. Click on the "View Results Table" button located in the app panel to convert the spatial table data to table view as shown below.
 
 <figure><img src="../.gitbook/assets/GettingStarted_restultstable_01.png" alt=""><figcaption></figcaption></figure>
 
-3. Examine the regular table that opens to view your data items and label categories.
-4. Notice how the table provides a structured view of your information, making it easy to read and analyze.
-5. Observe how data items and label categories are organized and displayed in a clear and concise format for efficient information retrieval and analysis.
+3. Notice how the table provides a structured view of your information, making it easy to read and analyze.
+4. Observe how data items and label categories are organized and displayed in a clear and concise format for efficient information retrieval and analysis.
 
 {% hint style="info" %}
-Note that you can change the column width by moving their edges in the header. You can also [sort](../results-tables/sort.md) and [filter ](../results-tables/filter.md)the table.
+You can change the column width by moving their edges in the header. You can also [sort](../results-tables/sort.md) and [filter ](../results-tables/filter.md)the table.
 {% endhint %}
 
-6. Click on the Download CSV file button to download the file which you can then open in another application such as a MS Excel, Google Sheets, Notion, or Airtable. These applications can be used as your data repository.
+6. Click on the _Download CSV file_ button to download the file which you can then open in another application such as a MS Excel, Google Sheets, Notion, or Airtable. Each of these applications can be used as your data repository for you visual data defined in Miro.
