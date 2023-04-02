@@ -1,5 +1,5 @@
 ---
-description: Sort individual columns in ascending or descending order
+description: Sort individual or multiple columns in ascending or descending order
 ---
 
 # Sort
