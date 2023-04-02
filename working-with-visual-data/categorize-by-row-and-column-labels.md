@@ -1,10 +1,10 @@
 ---
-description: Associate data items with two separate categories
+description: Associate data to horizontal labels and vertical labels
 ---
 
 # Categorize items by using row and column labels
 
-Place data items, whether they are sticky notes or text boxes, into table cells that are associated with both vertical and horizontal labels. This feature helps you compare data items across different categories and identify items that have similar or distinct features. Working within a familiar table view, you can organize your data visually, making it easier to spot patterns and insights.
+Visually place sticky notes or text box data items into table cells (rectangles) that are associated with both vertical and horizontal labels. This feature helps you compare data items across different categories and identify items that have similar or distinct features. Working within this familiar table view, you can organize your data visually, making it easier to spot patterns and insights.
 
 Benefit from being able to include multiple items per cell, which can be resolved in the results table view.&#x20;
 
