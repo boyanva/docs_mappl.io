@@ -4,19 +4,19 @@ description: Visually describe up to five levels of data hierarchy
 
 # Categorize items using nested shapes
 
-Organize your data by categorizing items into up to five visual hierarchy levels based on nested shapes. Establish clear parent-child relationships between items. Place similar items in the same category.
+Organize your data visually by categorizing items into up to five hierarchy levels based on nested shapes. Establish clear parent-child relationships between items. Place similar items in the same category.
 
-Utilize this method for various practical applications, such as organizing brainstorming session results, managing project status or doing competition research.&#x20;
+Utilize this method for various practical applications, such as organizing brainstorming session results, managing project statuses or doing competition research.&#x20;
 
-With this structure, you can quickly identify patterns, connections, and insights, making your decision-making process more efficient and well-informed.
+With this visual approach, you can quickly identify patterns and insights about your data, making your decision-making process more efficient and well-informed.
 
-The spatial table below illustrates how you can use nesting of labelled rectangles to associated clients with specific countries and cities within Europe. Client G in this case will be associated with Brussels -> Belgium -> Other -> Major clients in Europe (see Results table view section).
+The spatial table below illustrates how hierarchical categorization can work in practice. In this example, we associate clients with specific countries and cities in Europe. Nesting of labelled shapes defines the hierarchy relationships. Client G in this case will be associated with four levels of parent categories (Brussels -> Belgium -> Other -> Major clients in Europe). We will be able to query and filter data on any of these levels once we convert the spatial table to a regular table.&#x20;
 
 <figure><img src="../.gitbook/assets/VisualData_hierarchies_01.png" alt=""><figcaption></figcaption></figure>
 
 #### Results table view
 
-The spatial table gets converted to a regular table that can be [exported as a CSV file](../export/csv-export.md). The hierarchy is described by the included Top-level, Second level, Third-level and Fourth-level Labels. Backlinks can be used to go back to the original item on your Miro board. Data can be [filtered ](../results-tables/filter.md)and [sorted ](../results-tables/sort.md)prior to export.&#x20;
+The spatial table gets converted to a regular table that can then be [exported as a CSV file](../export/csv-export.md). The hierarchy is described by the included Top-level, Second level, Third-level and Fourth-level Labels columns. Notice how Client G discussed in the previous section is shown in the results table using these columns. Backlinks can be used to go back to the original item on your Miro board. Data can be [filtered ](../results-tables/filter.md)and [sorted ](../results-tables/sort.md)prior to export.&#x20;
 
 <figure><img src="../.gitbook/assets/VisualData_hierarchies_results_01.png" alt=""><figcaption></figcaption></figure>
 
