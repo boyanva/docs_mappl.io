@@ -1,5 +1,5 @@
 ---
-description: Importing CSV files in Excel
+description: Importing CSV files to Excel
 ---
 
 # Excel

@@ -1,5 +1,5 @@
 ---
-description: Importing a CSV File into Google Sheets
+description: Importing CSV files to Google Sheets
 ---
 
 # Google Sheets
@@ -24,9 +24,9 @@ To make working with you data easier, we recommend freezing the first row of the
 ### Appending CSV Data to an Existing Google Sheet table
 
 1. Open a master table with existing data
-2. Select File -> Import
-3. Select the CSV file under the Upload tab
-4. In the Import file window, under the Import locatoin drow down menu, select Append to current sheet
+2. Select _File_ -> _Import_
+3. Select the CSV file under the _Upload_ tab
+4. In the Import file window, under the Import location drop down menu, select _Append to current sheet_
 5. Click on the Import data button
 
 

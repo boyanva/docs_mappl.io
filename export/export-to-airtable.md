@@ -1,5 +1,5 @@
 ---
-description: Importing your CSV files in Airtable
+description: Importing CSV files to Airtable
 ---
 
 # Airtable
