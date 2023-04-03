@@ -1,5 +1,5 @@
 ---
-description: Creating a New Page and Importing a CSV File in Notion
+description: Importing a CSV File in Notion
 ---
 
 # Notion
