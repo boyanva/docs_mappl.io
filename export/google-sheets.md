@@ -4,6 +4,10 @@ description: Importing CSV files to Google Sheets
 
 # Google Sheets
 
+**Use Google Sheets as a data repository for your Miro data.** Work with separate worksheets for CSV file import or build a master worksheet by appending many CSV files with a shared format. You can, for example, build a master worksheet for all tasks in your project for an extended period of time, where you will always be able to find a particular task and go back to the original Miro board item by following the backlink.
+
+<figure><img src="../.gitbook/assets/Exports_GoogleSheets_01.png" alt=""><figcaption></figcaption></figure>
+
 1. Open Google Sheets and create a new, blank spreadsheet.
 2. Click on _File_ in the menu, and then choose _Import_.
 3. In the _Import_ window, select the _Upload_ tab and select your file from your device
@@ -18,8 +22,6 @@ To make working with you data easier, we recommend freezing the first row of the
 
 1. Select the first row&#x20;
 2. Select View -> Freeze -> 1 row
-
-<figure><img src="../.gitbook/assets/Exports_GoogleSheets_01.png" alt=""><figcaption></figcaption></figure>
 
 ### Appending CSV Data to an Existing Google Sheet table
 
