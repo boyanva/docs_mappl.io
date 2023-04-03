@@ -15,23 +15,13 @@ description: Importing your CSV files in Airtable
 
 <figure><img src="../.gitbook/assets/Export_Airtable_01.png" alt=""><figcaption><p>Example of important data from mappl.io Spatial Tables into Airtable</p></figcaption></figure>
 
-Modifying Airtable Column Field Types
-
-Ensure that the Items and Backlinks columns have the correct field types:
-
-1. Check column field types.
-2. Make sure "Items" is set as the "Single line text" field type.
-3. Ensure "backlinks" has the "URL" field type.
-
-To change a column field type from "Single line text" to "Single select":
-
-1. Click the column header.
-2. Select "Customize field type" from the drop-down menu that opens and choose "Single select".
-
-Appending CSV Data to an Existing Airtable Table
+### Appending CSV Data to an Existing Airtable Table
 
 1. Open the Airtable table where you want to append data.
-2. Click the "Import" button at the top of the table.
-3. In the pop-up, choose "CSV" and check the "Append data to an existing table" option.
+2. Click on the downward arrow of the table table tab
+3. In the pop-up, choose _Import data_, and then _CSV file_
+
+<figure><img src="../.gitbook/assets/Export_Airtable_02.png" alt=""><figcaption></figcaption></figure>
+
 4. Select the CSV file you want to append.
-5. New data rows are added to the master table.
+5. The new data rows are now added to the master table.
