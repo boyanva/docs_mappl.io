@@ -6,6 +6,8 @@ description: Importing CSV files to Notion
 
 **Use Notion as a data repository for your Miro data**. Work with separate tables for CSV file import or build a master table by appending many CSV files with a shared format. You can, for example, build a master table for all tasks in your project for an extended period of time, where you will always be able to find a particular task and go back to the original Miro board item by following the backlink.&#x20;
 
+<figure><img src="../.gitbook/assets/Export_Notion_01 (1).png" alt=""><figcaption><p>Example of important data from mappl.io Spatial Tables into Notion</p></figcaption></figure>
+
 ### Follow these steps to create a new page and import a CSV file into Notion
 
 1. Create a new page in your Notion dashboard.
@@ -13,8 +15,6 @@ description: Importing CSV files to Notion
 3. In the pop-up, choose "CSV".
 4. Select a previously saved CSV file from the results table.
 5. Review the imported data in Notion.
-
-<figure><img src="../.gitbook/assets/Export_Notion_01 (1).png" alt=""><figcaption><p>Example of important data from mappl.io Spatial Tables into Notion</p></figcaption></figure>
 
 ### Modifying Notion Table Column Properties
 

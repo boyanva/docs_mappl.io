@@ -30,5 +30,6 @@
 * [CSV export](export/csv-export.md)
 * [Notion](export/export-to-notion.md)
 * [Airtable](export/export-to-airtable.md)
+* [Coda](export/coda.md)
 * [Excel](export/export-to-excel.md)
 * [Google Sheets](export/google-sheets.md)
