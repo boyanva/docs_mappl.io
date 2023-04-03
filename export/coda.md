@@ -10,9 +10,19 @@ description: Importing  CSV files into Coda
 
 ### Creating a New Coda Table from a CSV File:
 
-1. Open Coda and create a new doc or navigate to an existing one.
-2. Click on the "+" icon in the canvas and select "Table" to create a new table.
-3. Click on the "•••" (more) menu at the top-right corner of the table.
-4. Choose "Import" from the dropdown menu.
-5. In the pop-up, select "Upload" and choose the CSV file you want to import.
-6. Review the imported data in Coda.
+1. Open Coda, go to your Dosc folder and select the _+ Blank doc_ button
+2. Select the _Insert_ button in the top right of the page, and then chose _Import_ -> _CSV._
+3. Click on _Add file_ under file in the pop-up window that opens and select the CSV file you would like to import.
+4. Make sure that _Use first row as headers_ is in the ON position.
+5. Click _Next_ to view the imported table in Coda.
+6. Make sure that the _Items_ column is set as the Display column in the table and that its type is set to _Text_. Also make sure that the _Backlinks_ column is of type _Link_. The rest of the columns must be set to type _Select List_.
+
+### Appending CSV Data to an Existing Coda Table
+
+To append a CSV file to an existing master table do the following:
+
+1. Open the table you would like to append data to.
+2. Select the _Insert_ button in the top right of the page, and then chose _Import_ -> _CSV._
+3. Click on _Add file_ under file in the pop-up window that opens and select the CSV file you would like to import.
+4. Under _Import location_ select the name of the table you will be appending data to
+5. Click _Next_ to view the the appended data to the table.

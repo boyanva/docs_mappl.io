@@ -9,7 +9,7 @@
 
 ## WORKING WITH VISUAL DATA
 
-* [Categorize items using nested shapes](working-with-visual-data/categorize-using-hierarchies.md)
+* [Categorize items using nested shape hierarchies](working-with-visual-data/categorize-using-hierarchies.md)
 * [Categorize items by using row and column labels](working-with-visual-data/categorize-by-row-and-column-labels.md)
 * [Categorize items by color](working-with-visual-data/categorize-by-color.md)
 * [Tag items using shapes](working-with-visual-data/tag-items-using-shapes.md)
