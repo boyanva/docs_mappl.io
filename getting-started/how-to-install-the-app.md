@@ -11,5 +11,5 @@ To install mappl.io Spatial Tables, simply visit [https://miro.com/marketplace/s
 3. Select the team for which the app will be installed.
 4. Give the app the permissions listed below by clicking the Add and Allow button.
 
-<img src="../.gitbook/assets/GettingStarted_Permissions_01.png" alt="" data-size="original">
+<figure><img src="../.gitbook/assets/GettingStarted_Permissions_01.png" alt=""><figcaption></figcaption></figure>
 
