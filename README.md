@@ -1,5 +1,5 @@
 ---
-description: Convert your Miro board into a database
+description: Convert your Miro board into a visual database
 ---
 
 # Getting started
