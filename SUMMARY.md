@@ -28,7 +28,7 @@
 ## EXPORT
 
 * [CSV export](export/csv-export.md)
-* [Export to Notion](export/export-to-notion.md)
-* [Export to Airtable](export/export-to-airtable.md)
-* [Export to Excel](export/export-to-excel.md)
-* [Work with ChatGPT](export/work-with-chatgpt.md)
+* [Notion](export/export-to-notion.md)
+* [Airtable](export/export-to-airtable.md)
+* [Excel](export/export-to-excel.md)
+* [ChatGPT](export/work-with-chatgpt.md)
