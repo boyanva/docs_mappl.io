@@ -1,5 +1,5 @@
 ---
-description: Importing a CSV File in Notion
+description: Importing your CSV files in Notion
 ---
 
 # Notion
