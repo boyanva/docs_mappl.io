@@ -20,3 +20,12 @@ The precise steps vary in different versions of Excel, so below we list the gene
 8. Click on the _Close & Load_ button to close the window to view the imported data in your worksheet.&#x20;
 
 <figure><img src="../.gitbook/assets/Export_Excel_01.png" alt=""><figcaption></figcaption></figure>
+
+### Appending CSV Data to an Existing Excel Table
+
+New CSV data can be appended to an existing table in a number of ways in Excel. Below we only list the simplest approach, which involves creating a new table and copying and pasting the data. Consult Excel documentation about more advanced methods such as combining CSV files form the same folder or using macros to achieve the same goal.&#x20;
+
+1. Add the CSV data to a new Excel worksheet by following the steps in the previous section.&#x20;
+2. Select all data in the worksheet excluding the title row and Copy the data
+3. Go the the Worksheet containing your master table, click on the first empty cell below the last row with data and Paste the data into place.
+
