@@ -14,7 +14,7 @@ description: Importing your CSV files in Notion
 4. Select a previously saved CSV file from the results table.
 5. Review the imported data in Notion.
 
-<figure><img src="../.gitbook/assets/Export_Notion_01.png" alt=""><figcaption><p>Example of important data from mappl.io Spatial Tables into Notion</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Export_Notion_01 (1).png" alt=""><figcaption><p>Example of important data from mappl.io Spatial Tables into Notion</p></figcaption></figure>
 
 ### Modifying Notion Table Column Properties
 
