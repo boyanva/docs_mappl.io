@@ -13,7 +13,7 @@ description: Importing your CSV files in Airtable
 5. Review the imported data in the preview screen that appears. Make sure that the column on the left is the Title column. The Title column must be of type Long text, the Backlinks column must be of type URL, and the rest of the columns should be of type Single Select. You can click on the downward arrow and adjust the type at this time.&#x20;
 6. Click Import and the data must be successfully imported in Airtable.
 
-<figure><img src="../.gitbook/assets/Export_Airtable_01.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Export_Airtable_01.png" alt=""><figcaption><p>Example of important data from mappl.io Spatial Tables into Airtable</p></figcaption></figure>
 
 Modifying Airtable Column Field Types
 
