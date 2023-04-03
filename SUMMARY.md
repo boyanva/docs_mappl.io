@@ -31,4 +31,3 @@
 * [Notion](export/export-to-notion.md)
 * [Airtable](export/export-to-airtable.md)
 * [Excel](export/export-to-excel.md)
-* [ChatGPT](export/work-with-chatgpt.md)
