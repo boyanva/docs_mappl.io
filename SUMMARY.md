@@ -31,3 +31,4 @@
 * [Notion](export/export-to-notion.md)
 * [Airtable](export/export-to-airtable.md)
 * [Excel](export/export-to-excel.md)
+* [Google Sheets](export/google-sheets.md)
