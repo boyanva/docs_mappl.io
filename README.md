@@ -28,6 +28,6 @@ It effectively transforms your Miro board into a database.
 
 ### Pick your favorite external application to function as a data repository for your visual Miro data
 
-Click on the [Download CSV file ](export/csv-export.md)button and then import the data to your favorite app. You can use applications such as [Microsoft Excel](export/export-to-excel.md), Google Sheets, [Notion](export/export-to-notion.md), [Airtable](export/export-to-airtable.md) and Coda as data repositories for your visual data. The backlinks included in the results tables always lead back to the original objects in your Miro boards.
+Click on the [Download CSV file ](export/csv-export.md)button and then import the data to your favorite app. You can use applications such as  [Notion](export/export-to-notion.md), [Airtable](export/export-to-airtable.md), [Coda](export/coda.md),  [Microsoft Excel](export/export-to-excel.md), or [Google Sheets](export/google-sheets.md) as data repositories for your visual data. The backlinks included in the results tables always lead back to the original objects in your Miro boards.
 
 <figure><img src=".gitbook/assets/Export_Notion_01.png" alt=""><figcaption><p>The results table has been imported into Notion</p></figcaption></figure>
