@@ -1,3 +1,7 @@
+---
+description: Save your data and then import it to other applications
+---
+
 # CSV export
 
 The current version of the app allows data export in the comma separated values (CSV) file format. Data is exported from the results tables view by using the _Download CSV file_ button.
