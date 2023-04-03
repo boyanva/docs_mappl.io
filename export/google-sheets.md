@@ -19,6 +19,8 @@ To make working with you data easier, we recommend freezing the first row of the
 1. Select the first row&#x20;
 2. Select View -> Freeze -> 1 row
 
+<figure><img src="../.gitbook/assets/Exports_GoogleSheets_01.png" alt=""><figcaption></figcaption></figure>
+
 ### Appending CSV Data to an Existing Google Sheet table
 
 1. Open a master table with existing data
